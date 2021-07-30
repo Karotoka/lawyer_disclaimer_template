@@ -3,7 +3,7 @@ autonomous law disclosure and disclaimer template (lawyer version)
 
 ***DISCLAIMERS FOLLOW: Please review and be advised of the following:*** 
 
-I am a lawyer admitted to practice in [List Jxd].  
+I am a lawyer admitted to practice in British Columbia and Alberta, Canada.  
 
 **DISCLAIMER OF ATTORNEY – CLIENT RELATIONSHIP** 
 
@@ -23,11 +23,10 @@ In engaging in autonomous lawyering, I am not acting on behalf of my law firm or
 
 I currently engage in autonomous lawyering in the following communities and have the following economic interests therein:  
 
-* [LeXpunk/L3X disclosure] 
+* LeXpunk 
 
-* [Other] 
+* lex_DAO 
  
-
-I also hold non-immaterial amounts (by portfolio %) of [LIST] & various stablecoins 
+I also hold non-immaterial amounts (by portfolio %) of Etheruem, DPI, MVI, & USDC. 
 
 I disclaim any responsibility to keep these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure. 
